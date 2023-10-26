@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason 👋
 
-![bacground](https://www.wallpaperflare.com/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-sgsrg)
+![bacground](https://i.pinimg.com/originals/03/a2/b4/03a2b4aef7146f43beb960ac470b08d8.jpg)
 
 <!--
 **JUC24/JUC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
