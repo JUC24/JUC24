@@ -12,13 +12,9 @@ Hi! I'm Jason Umaña, a new junior frontend developer, from Costa Rica, passiona
 
 # 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=JUC24&theme=monokai&hide_border=false&include_all_commits=false&count_private=false"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JUC24&theme=monokai&hide_border=false" /></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUC24&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
-  </tr>
-</table>
+![](https://github-readme-stats.vercel.app/api?username=JUC24&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JUC24&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUC24&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
