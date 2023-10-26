@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason 👋
 
-![bacjground](https://www.linkedin.com/in/jason-uma%C3%B1a-campos-565a40280/overlay/background-image/)
+![bacground](https://i.pinimg.com/originals/92/45/50/924550f254f939c1fceaa2e6424b0b4c.jpg)
 
 <!--
 **JUC24/JUC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
